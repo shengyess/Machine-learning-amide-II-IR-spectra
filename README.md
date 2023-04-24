@@ -1,4 +1,7 @@
 # Machine-learning-amide-II-IR-spectra
+Any researchers who interested in protein spectroscopy can use our ML protcol online service: http://dcaiku.com:12880/platform/first
+
+For the machine learning protocol source code written in Python and Bash language which including:
 1.1.py: Split the protein into individual peptide bonds and dipeptides.
 1.2.py: Calculate the center of mass for each each peptide bond and dipeptide.
 2.1.sh: Extracte the descriptors of peptide bond.
