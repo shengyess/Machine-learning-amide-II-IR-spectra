@@ -1,5 +1,5 @@
 # Machine-learning-amide-II-IR-spectra
-Any researchers who interested in protein spectroscopy can use our ML protcol online service: http://dcaiku.com:12880/platform/first
+Researchers interested in protein spectroscopy can utilize our online ML protocol service: http://dcaiku.com:12880/platform/first
 
 For the machine learning protocol source code written in Python and Bash language which including:
 
