@@ -19,4 +19,4 @@ For the machine learning protocol source code written in Python and Bash languag
 
 spectra_calc.sh: Diagonalize the Hamilton matrix to calculate the signal by using the SPECTRON (J. Phys. Chem. B 2006, 110, 3362-3374) program.
 
-Due to limitations in file size, the trained model is available at: https://zenodo.org/record/7267973#.Y2J9tchtkVK
+Due to limitations in file size, the trained model is available at: https://zenodo.org/records/10277699
